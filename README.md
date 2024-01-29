@@ -1,7 +1,7 @@
 ### Pair's Game
 
 ## Process
-Two cards should be same pairs.
+Two cards must form a matching pair.
 
 ## Built with
 - HTML5
@@ -9,7 +9,7 @@ Two cards should be same pairs.
 - JavaScript
 
 ## Development
-You got 5 lives, you should complete all of the cards then you win. If you choose dissimilar cards, you will lose one life. If you lives is gone then you start again.
+You start with 5 lives, and the goal is to complete all the cards to win. If you pick cards that don't match, you'll lose a life. If you run out of lives, you have to start over.
 
 ## Resources
 Stackoverflow
