@@ -1,7 +1,7 @@
 ### Pair's Game
 
 ## Process
-Two cards must form a matching pair.
+Two cards must to form a matching pair to complete the game.
 
 ## Built with
 - HTML5
